@@ -1,0 +1,17 @@
+[19-Aug-2022 06:32:44] PHP Notice:  Undefined index:  cnpj in /home/unimedtc/public_html/cartaquitacao/resources/funcs/validalogin.php on line 13
+[13-Sep-2022 01:05:07] PHP Notice:  Undefined index:  cnpj in /home/unimedtc/public_html/cartaquitacao/resources/funcs/validalogin.php on line 13
+[15-Sep-2022 07:54:24] PHP Notice:  Undefined index:  cnpj in /home/unimedtc/public_html/cartaquitacao/resources/funcs/validalogin.php on line 13
+[21-Nov-2022 21:29:29] PHP Notice:  Undefined index:  cnpj in /home/unimedtc/public_html/cartaquitacao/resources/funcs/validalogin.php on line 13
+[25-Jan-2023 09:00:55] PHP Notice:  Undefined index:  cnpj in /home/unimedtc/public_html/cartaquitacao/resources/funcs/validalogin.php on line 13
+[19-Sep-2023 15:04:56] PHP Notice:  Undefined index:  cnpj in /home/unimedtc/public_html/cartaquitacao/resources/funcs/validalogin.php on line 13
+[15-Feb-2024 00:46:16] PHP Notice:  Undefined index:  cnpj in /home/unimedtc/public_html/cartaquitacao/resources/funcs/validalogin.php on line 13
+[02-Apr-2024 16:55:07] PHP Notice:  Undefined index:  cnpj in /home/unimedtc/public_html/cartaquitacao/resources/funcs/validalogin.php on line 13
+[08-Apr-2024 12:54:20] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(/opt/alt/php44/var/lib/php/session/sess_3d908ea34e44e6cb66e95178b1581df6, O_RDWR) failed: No space left on device (28) in /home/unimedtc/public_html/cartaquitacao/resources/funcs/validalogin.php on line 3
+[08-Apr-2024 12:54:20] PHP Warning:  Unknown(): open(/opt/alt/php44/var/lib/php/session/sess_3d908ea34e44e6cb66e95178b1581df6, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[08-Apr-2024 12:54:20] PHP Warning:  Unknown(): Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/opt/alt/php44/var/lib/php/session) in Unknown on line 0
+[08-Apr-2024 14:51:23] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(/opt/alt/php44/var/lib/php/session/sess_3bb13ad583775f9a980f9fc1b26e4962, O_RDWR) failed: No space left on device (28) in /home/unimedtc/public_html/cartaquitacao/resources/funcs/validalogin.php on line 3
+[08-Apr-2024 14:51:23] PHP Warning:  Unknown(): open(/opt/alt/php44/var/lib/php/session/sess_3bb13ad583775f9a980f9fc1b26e4962, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[08-Apr-2024 14:51:23] PHP Warning:  Unknown(): Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/opt/alt/php44/var/lib/php/session) in Unknown on line 0
+[10-Apr-2024 14:31:52] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(/opt/alt/php44/var/lib/php/session/sess_66f0e26984f90ba8c32bb094f9c8c047, O_RDWR) failed: No space left on device (28) in /home/unimedtc/public_html/cartaquitacao/resources/funcs/validalogin.php on line 3
+[10-Apr-2024 14:31:52] PHP Warning:  Unknown(): open(/opt/alt/php44/var/lib/php/session/sess_66f0e26984f90ba8c32bb094f9c8c047, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[10-Apr-2024 14:31:52] PHP Warning:  Unknown(): Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/opt/alt/php44/var/lib/php/session) in Unknown on line 0
